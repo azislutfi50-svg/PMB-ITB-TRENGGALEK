@@ -2983,7 +2983,6 @@ export default function App() {
                   )}
                 </div>
 
-                /* MABA AUTHENTICATION SYSTEM (LOGIN / REGISTRATION) */
                 <div className="max-w-2xl mx-auto bg-slate-900 border border-slate-800 rounded-3xl p-6 sm:p-8 space-y-6">
                 <div className="text-center space-y-2">
                   <div className="inline-flex bg-sky-950/60 p-3 rounded-full text-sky-400 border border-sky-800 mb-2">
